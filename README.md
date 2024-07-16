@@ -1,2 +1,2 @@
 # About
- a simple program to upload your files to multiple locations.
+ a simple program to resolve empty slots of a matrix from others, if failed to resolve the program fails
