@@ -135,7 +135,7 @@ func processMatrix(matrix Matrix, reqChan chan string, respChan chan int, handle
 }
 
 func main() {
-    files := []string{"./sample1", "./sample2", "./sample3"}
+    files := []string{"./sample1", "./sample2"}
     reqChan := make(chan string)
     respChan := make(chan int)
     for _, file := range files {
